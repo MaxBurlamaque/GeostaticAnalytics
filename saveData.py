@@ -12,7 +12,7 @@ pytesseract.pytesseract.tesseract_cmd = r'C:\Users\mxaff\AppData\Local\Programs\
 mydb = mysql.connector.connect(
   host="localhost",
   user="root",
-  password="Mysql1803!"
+  password="" # Add password
 )
 cursor = mydb.cursor()
 cursor.execute("use geo;")

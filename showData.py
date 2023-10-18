@@ -25,7 +25,7 @@ training = 5 # Starts in 5 because that's my currently training
 mydb = mysql.connector.connect(
   host="localhost",
   user="root",
-  password="Mysql1803!"
+  password="" # Add password
 )
 cursor = mydb.cursor()
 cursor.execute("use geo;")
