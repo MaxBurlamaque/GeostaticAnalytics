@@ -1,5 +1,5 @@
 # Scrapper, Database and Dashboard for Geostatic
-> Note: The project is in 1.0 Version and in constant progress, but i already use it for my development in Geostatic game, if you want to utilize yourself remember to adjust the components to your screen
+> Note: The project is in the Version 1.0 and in constant progress, but i already use it for my development in Geostatic game, if you want to utilize yourself remember to adjust the components to your screen
 ### Geostatic Analytics
 
 This project includes a scrapper of data via screenshot of results page of geostatic games, a database for the games and a dashboard for analysis of my games and better improvement
